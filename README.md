@@ -1,8 +1,8 @@
 # VENDLE
 VENDLE is an open-source UK-focused resale intelligence platform that helps sellers identify the best marketplace to sell items based on real sold-price data, fees, and demand signals.
-Vendly helps people sell smarter by analysing resale data across UK marketplaces and recommending the best platform to sell a specific item.
+VENDLE helps people sell smarter by analysing resale data across UK marketplaces and recommending the best platform to sell a specific item.
 
-Instead of guessing whether to list on eBay, Vinted, Facebook Marketplace, or elsewhere, Vendly compares:
+Instead of guessing whether to list on eBay, Vinted, Facebook Marketplace, or elsewhere, VENDLE compares:
 	•	recent sold prices
 	•	marketplace fees
 	•	sell-through likelihood
@@ -23,7 +23,7 @@ Tech Direction (subject to change)
 	•	Open-source core, with optional commercial layers
 
 Exact stack may evolve as the project grows.
-Vendly is open to:
+VENDLE is open to:
 	•	developers interested in marketplaces, data, or scraping
 	•	contributors who enjoy building early-stage SaaS
 	•	potential technical co-founders
